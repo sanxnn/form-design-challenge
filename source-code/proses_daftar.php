@@ -23,7 +23,7 @@
             <?php else: ?>
             <p class="alert alert-warning">Tidak ada data yang dikirim.</p>
             <?php endif; ?>
-            <a href="form.html" class="btn btn-primary mt-3">Kembali ke Form</a>
+            <a href="form_daftar.html" class="btn btn-primary mt-3">Kembali ke Form</a>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
